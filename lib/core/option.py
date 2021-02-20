@@ -2860,7 +2860,7 @@ def init():
         _setSocketPreConnect()
         _setSafeVisit()
         _doSearch()
-        _setStdinPipeTargets()
+#        _setStdinPipeTargets()
         _setBulkMultipleTargets()
         _checkTor()
         _setCrawler()
